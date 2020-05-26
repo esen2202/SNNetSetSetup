@@ -16,13 +16,13 @@ The easy way to monitor and configure network adapters in Windows
 
 *Copy as seperate each information of the selected network adapter*
 
-*Create/Update/Delete predefined ip configrations*
+*Create/Update/Delete predefined ip configurations*
 
-*Export/Import predefined ip configration records* .nsc file
+*Export/Import predefined ip configuration records* .nsc file
 
 *Activate dhcp at the selected network adapter*
 
-*Assign predefined configration to the selected network adapter*
+*Assign predefined configuration to the selected network adapter*
 
 ![](/screenshoot.png)
 
